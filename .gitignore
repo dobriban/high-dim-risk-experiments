@@ -13,7 +13,7 @@
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
-# *.pdf
+
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -154,3 +154,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+talks/ML reading Gp 2015 Oct/stefan_tex.sty
+
+talks/ML reading Gp 2015 Oct/talk_outline.tex
+
+talks/ML reading Gp 2015 Oct/plainnat-abbrev.bst
+
+talks/ML reading Gp 2015 Oct/references.bib
+
